@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GreedyGameSDK'
-  s.version          = '1.0.0-xcode10'
+  s.version          = '1.0.0.1'
   s.summary          = 'This pod will help you in generating more ad revenue by adding greedygame native ios plugin.'
   s.swift_version = '4.2'
 
